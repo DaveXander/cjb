@@ -18,3 +18,13 @@ mc admin user add s3 AKIAIOSFODNN7EXAMPLE mysecretkey123456
 mc admin user add http://10.226.160.13:9000 admin admin123
 mc alias set myminio http://10.226.160.13:9000 admin admin123
 mc alias set myminio http://10.226.160.13:9000 AKIAIOSFODNN7EXAMPLE mysecretkey123456
+
+
+minio-pv                                   10Gi       RWX            Retain           Bound    default/s3-pvc                 csi-s3                  13d
+pv-argo-workflows                          10Gi       RWX            Retain           Bound    argo-workflows/pvc-streaming   csi-s3                  13d
+pv-bigdata-flink                           10Gi       RWX            Retain           Bound    bigdata-flink/pvc-streaming    csi-s3                  3d19h
+pv-streaming                               10Gi       RWX            Retain           Bound    streaming/pvc-streaming        csi-s3                  13d
+pvc-224da030-d136-4eb3-b7e4-62d9b197674b   10Gi       RWO            Delete           Bound    bigdata-dp/task-versions-pvc   local-path              14d
+pvc-45db9dcb-409c-4eb9-89bb-7db2eb073eeb   10Gi       RWO            Delete           Bound    bigdata-dp/nfs-data-pvc        local-path              14d
+pvc-ecf8206e-4a34-4780-b1ab-d16e49e8dc53   50Gi       RWO            Delete           Bound    bigdata-dp/worker-logs-pvc     local-path              14d
+
