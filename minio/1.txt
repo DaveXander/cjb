@@ -1,0 +1,20 @@
+# 1️⃣ 先创建 namespace（如果没有）
+kubectl create ns streaming
+
+# 2️⃣ 创建 Secret
+kubectl apply -f secret.yaml
+
+# 3️⃣ 创建 PV
+kubectl apply -f pv.yaml
+
+# 4️⃣ 创建 PVC
+kubectl apply -f pvc.yaml
+
+
+mc alias list
+ystemctl status minio.service
+cat  /root/.mc/config.json
+mc admin user add s3 AKIAIOSFODNN7EXAMPLE mysecretkey123456
+mc admin user add http://10.226.160.13:9000 admin admin123
+mc alias set myminio http://10.226.160.13:9000 admin admin123
+mc alias set myminio http://10.226.160.13:9000 AKIAIOSFODNN7EXAMPLE mysecretkey123456
