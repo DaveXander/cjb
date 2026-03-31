@@ -28,3 +28,16 @@ pvc-224da030-d136-4eb3-b7e4-62d9b197674b   10Gi       RWO            Delete     
 pvc-45db9dcb-409c-4eb9-89bb-7db2eb073eeb   10Gi       RWO            Delete           Bound    bigdata-dp/nfs-data-pvc        local-path              14d
 pvc-ecf8206e-4a34-4780-b1ab-d16e49e8dc53   50Gi       RWO            Delete           Bound    bigdata-dp/worker-logs-pvc     local-path              14d
 
+
+
+
+
+https://obs-test-hw-bj-bdt-jbc-server-data.obs.cn-north-4.myhuaweicloud.com:443/docker_images/%E5%AE%A2%E6%88%B7%E9%83%A8%E7%BD%B2.zip?AccessKeyId=HSTAR45L2XHHL3UOOO7Y&Expires=1775032624&x-obs-security-token=hQpjbi1zb3V0aC0xAQAABLpIU1RBUjQ1TDJYSEhMM1VPT083WY_LGEHAc5PabDHGciz3_bpIRCcwv9Y7BCtGsUcviLOaz10-FafbaCyEZR_VAyV0dHbprL61cBjVSSQixIlROdkh5g--U_yUhGDTQpEIDqmn2FjdeZcdfKPH5YtP7gTsAzD9O35lIUIfeSBAOfCIBlcjXdA_SAHWE52ioVK2lX8phnsCNd86AcTZgV_1B8873mmBBur14hkuz4PqLCDlvqgm7KEiK1TW129e9jP3r9weJ3ZCkgiFbXL4Du46HBOnEOdWEoDHFo1olgCjJrHvJdGRUmKR2xvmrCeJlZsqQeXVqFzg0feHFWyTdLx8HEhZ2kGEWOQiMN_FNaOSjRHHeVA78FJEM-v00JDrD9RiRRi7Ae-hrAOoBPXB83mF9eSiPGonS_zOs8KdmzW2leNgCXGbZSzET2Z88wxSPt_Nefe2atyZjmXK-ZsCDZ0JsUrs0srmVpIIrX8Ckyz7HPcO2GVQzuE86Tv87T6QnXmS9Hwl_8WtaP7fa_nocBf7Fy7pMJ883LSnve5bwtb-RjtehqNNc0gMSoV2WVaeEUB_InnuKuJilfidOje2CR58j7TMeAVYBAXT3ODVkLhNhVwtTRsPHcWS&Signature=BXIh1DnKka6ThQSj6tDU0OTYeNc%3D
+
+
+
+
+
+
+
+https://obs-test-hw-bj-bdt-jbc-server-data.obs.cn-north-4.myhuaweicloud.com:443/docker_images/images_bundle_20260331184604.tar?AccessKeyId=HSTA2QKJIOI0213A8U7P&Expires=1775025471&x-obs-security-token=hQpjbi1zb3V0aC0xAQAABLpIU1RBMlFLSklPSTAyMTNBOFU3ULNHHhHATqj8m-OgbjWt1DhVmbrdNltTtHrpBDuFuJLEZlOG_OonuUCxLKbmk_CemRu1jS9RKNvKtXt2JGmhyQtkfEGcJxv9GEIF0_XIisAFAgd9jypTnM70v7qwiEzQA24WJ334w8ayO_3oLVBO-LCca2I2T9_HwEkYIGQIsj9Gu-K453X0R35FG7F_z6340pBewtQ9NnJipWcro6dWKXFspqhnbN2VRDptPUHD7CbVN4brZmBrey-EIkqX7GE587lp62pRwrErP1Qe9Gu8gA6kHVB3t0lMmVj7TH1Mb-ntoazO3rwAz4gkM_KCbESmWWle1RCdF4xnD-6vOjtiwCS7w8q6unZ4ghEElP6S4d4eyduIpwA288LFH_JKNnZ1MJhkM_f5G-UUWxB_StELO2D-To3tmLRrlh1_R7zMaoRCgzJi-dLzIt3wby8nC50FDyU2eg04NMR7U-Iryh1Als-rW68q2NAND1DTJ50Pe1RgWehBtLb93d57n4sLCbNje7Z4nzEKme1t_zJBeuIyl6bJFVr-SATzSkyhiy-Lld3W6hZqusJ2Emo2lYSMEJej6f4HhaoiLOqLUfnOGFFjBzK00N7WBxg%3D&Signature=S1YAUuMHlG7NCqx77FuIEDPX4k8%3D
