@@ -38,7 +38,7 @@ spec:
 
       containers:
         - name: csi-provisioner
-          image: 10.224.146.200/d1tlaisec_01/yunwei/csi-s3/csi-s3:0.43.4
+          image: 10.224.146.200/d1tlaisec_01/yunwei/csi-s3/csi-provisioner:v2.1.0
           imagePullPolicy: IfNotPresent
           args:
             - --csi-address=$(ADDRESS)
